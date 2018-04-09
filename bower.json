@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-daterangepicker",
+  "name": "daterangepicker-pc",
   "main": [
     "daterangepicker.js",
     "daterangepicker.css"
