@@ -1,20 +1,19 @@
 {
-  "name": "daterangepicker-pc",
-  "main": [
-    "daterangepicker.js",
-    "daterangepicker.css"
-  ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "moment.js",
-    "moment.min.js"
-  ],
-  "dependencies": {
-    "jquery": "1.9.1 - 3",
-    "moment": ">=2.9.0"
- }
+    "author": {
+        "name": "Gowtham Venkatachalam"
+    },
+    "name": "daterangepicker-pc",
+    "keywords": [
+        "angular",
+        "uib",
+        "datepicker"
+    ],
+    "license": "",
+    "ignore": [],
+    "description": "Date range picker with icon instead of fa",
+    "version": "1.0.0",
+    "main": [
+      "daterangepicker.js",
+      "daterangepicker.css"
+    ]
 }
